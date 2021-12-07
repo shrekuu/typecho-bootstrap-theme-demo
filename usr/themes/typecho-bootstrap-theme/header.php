@@ -13,8 +13,8 @@
             'author'    =>  _t('%s 发布的文章')
         ), '', ' - '); ?><?php $this->options->title(); ?></title>
 
-    <link href="https://cdn.staticfile.org/normalize/2.1.3/normalize.min.css" rel="stylesheet" >
-    <link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//cdn.staticfile.org/normalize/2.1.3/normalize.min.css" rel="stylesheet" >
+    <link href="//cdn.staticfile.org/twitter-bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- 使用url函数转换相关路径 -->
     <link rel="stylesheet" href="<?php $this->options->themeUrl('css/style.css'); ?>">
@@ -37,7 +37,9 @@
     </style>
 
     <!-- 目测只能放这了 -->
-    <script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script>
+    <script src="//cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script>
+    <script src="//cdn.staticfile.org/twitter-bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    
 </head>
 <body>
 <!--[if lt IE 8]>
