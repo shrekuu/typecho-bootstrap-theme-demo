@@ -1,5 +1,5 @@
 # Typecho Bootstrap Theme Demo
 
-这个 [typecho-bootstrap-theme](https://gitee.com/shrekuu/typecho-bootstrap-theme) 主题的 Demo.
+This is the demo repo of the [Typecho Bootstrap Theme](https://github.com/shrekuu/typecho-bootstrap-theme).
 
-布署在 http://typecho-bootstrap-theme-demo.projects.linwise.com
+Here is the [demo](http://typecho-bootstrap-theme-demo.projects.linwise.com).
